@@ -1,9 +1,0 @@
-# Ignore everything
-*
-# But not directories
-!*/
-# And not python files
-!*.py
-# And not the file teste.xlsx
-!teste.xlsx
-.gitignore
