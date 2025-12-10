@@ -6,3 +6,4 @@
 !*.py
 # And not the file teste.xlsx
 !teste.xlsx
+.gitignore
